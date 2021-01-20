@@ -1,0 +1,16 @@
+Énoncé :
+On considère une liste d'entier L, de longueur impaire. Chaque élément de la liste apparaît 2 fois, sauf 1 élément, qui lui n'apparaît qu'une seule fois.
+
+Le but de l'exercice est d'écrire une fonction qui prend en élément la liste L et retourne l'élément présent qu'une seule fois. Répond à cette question en écrivant dans le fichiers index.js, au niveau de la fonction solution3(L)
+
+Ta fonction prendra en paramètre une liste L et devra retourner le nombre qui ne se répète pas.
+
+Pour approfondir, tu peux te renseigner sur les hashmaps et essayer de proposer une solution de complexité 0(n) ou 0(n*log(n)).
+Cette curiosité sera appréciée du recruteur.
+Exemple :
+Entrée (L)
+[1, 3, 4, 3]
+[1,5,3,6,4,3,1,5,4]
+Sortie
+1
+6
