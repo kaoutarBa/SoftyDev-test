@@ -1,0 +1,22 @@
+Enoncé :
+En comptant en base 10, on peut s'apercevoir que certains nombres ont leur chiffres écrits par ordre croissant.
+On appelle ces nombres écrits par chiffre croissant des nombres rangés (exemple : 123 est rangé, 132 n'est pas rangé).
+Inversement, les nombres qui ne respectent pas cette propriété sont appelées nombres chaotiques (exemple : 132 est chaotique, 123 n'est pas chaotique).
+
+Tu décides de compter de 1 jusqu'à N, N étant un nombre entier naturel positif.
+Quelle est le dernier nombre rangé que tu as compté?
+
+Répond à cette question en écrivant dans le fichier index.js, au niveau de la fonction solution1(N)
+
+Ta fonction prendra en paramètre le nombre N et devra retourner le dernier nombre rangé.
+
+Entrée (N)
+
+132
+1000
+7
+Sortie
+
+129
+999
+7
