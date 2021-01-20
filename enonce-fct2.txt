@@ -1,0 +1,16 @@
+2ème exercice : Liste à trou
+Énoncé :
+A partir d'une liste d'entier L, écrit une fonction retournant le plus petit entier positif non nul ne figurant pas dans la liste.
+
+Réponds à cette question en écrivant dans le fichiers index.js, au niveau de la fonction solution2(L)
+
+Ta fonction prendra en paramètre la liste L et devra retourner le plus petit entier positif ne figurant pas dans la liste.
+Exemple :
+Entrée (L)
+[1, 2, 3]
+[-1, -3]
+[1,4,7,5,3,6,3]
+Sortie
+4
+1
+2
